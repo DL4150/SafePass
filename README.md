@@ -5,7 +5,7 @@
 
 ![image](https://github.com/DL4150/SafePass/assets/92887753/22b99e89-5acc-4f2d-833f-20ef387aedd4)
 
-#Introduction
+# Introduction
 High traffic at intersections delays emergency services such as ambulances, fire brigades, etc from getting to their destination on time during an emergency. Our system aims to upgrade rigid traffic light schedules with real-time detection of sirens from emergency services. When our audio sensors detect sirens it signals our system which allows the system to make decision based on amplitude of the siren, to help understand the location of the service vehical
 
 ![image](https://github.com/DL4150/SafePass/assets/92887753/ca966e8b-7022-4415-9d1e-9ae15e725a47)
