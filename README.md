@@ -10,7 +10,10 @@ High traffic at intersections delays emergency services such as ambulances, fire
 
 ![image](https://github.com/DL4150/SafePass/assets/92887753/ca966e8b-7022-4415-9d1e-9ae15e725a47)
 
+# The lane clearance is trigger based on amplitude recieved by the audio sensing devices
 
 ![image](https://github.com/DL4150/SafePass/assets/92887753/53e858c7-f436-4802-a489-8e7601cfdc14)
+
+# The following method is used to create the audio detecting model
 
 ![image](https://github.com/DL4150/SafePass/assets/92887753/6d1535a0-b583-4ded-a23d-80a0cb75b4d0)
